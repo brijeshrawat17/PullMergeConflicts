@@ -12,7 +12,13 @@ public class Regex {
 
 	public static void main(String args[]) {
 		
+<<<<<<< HEAD
 System.out.println("Test2 2");
+=======
+
+System.out.println("Test1");
+
+>>>>>>> d0173284b881dcaf44b36084660feeda781c5acb
 
 }
 }
